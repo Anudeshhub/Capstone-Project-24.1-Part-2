@@ -162,8 +162,15 @@ Continuous monitoring of delay patterns and addressing underlying causes will be
 Numeric and Categorical Variables:
 Categorical Columns: ['Airline', 'Origin', 'Destination', 'ScheduledDeparture', 'ActualDeparture', 'ScheduledArrival', 'ActualArrival', 'DelayReason', 'AircraftType']
 
+data/categorical_feature_distributions.png
+![data/categorical_feature_distributions](data/categorical_feature_distributions.png)
+
+
+
 data/numeric_feature_distributions.png
 ![data/numeric_feature_distributions](data/numeric_feature_distributions.png)
+
+
 
 Airline: All airlines flight close number of flights on a given day, Southwest airlines have little more 
         flights than others
@@ -176,12 +183,13 @@ Business Implication: Analyzing delays or cancellations by airline can help iden
 data/Cancellation Rates.png
 ![data/Cancellation Rates](data/Cancellation Rates.png)
 
+
 Equal cancellation rates can indicate operational similarities and shared challenges among airlines,
 prompting a need for strategic reassessment. By focusing on enhancing operational efficiency, customer experience, and brand differentiation, airlines can navigate the implications of similar cancellation rates effectively, maintaining competitiveness in a challenging market.
 
 
-data/flights_by_airline.png
-![data/flights_by_airline](data/flights_by_airline.png)
+data/flight_delay_distribution2.png
+![data/flight_delay_distribution2](data/flights_delay_distribution2.png)
 
 
 All the flights were delayed by all airlines due to various reasons.  Weather, Air Traffic Control and Maintenance 
@@ -228,16 +236,4 @@ Communication Strategies: If predictions remain unreliable, ensure that customer
 
                            By addressing these points, the airline can improve its predictive modeling efforts, 
                           leading to better operational planning and enhanced customer satisfaction.
-
-
-
-
-
-
-
-
-
-
-
-
 
