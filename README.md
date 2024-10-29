@@ -146,10 +146,6 @@ Summary Statistics for Delay Minutes
 •	25th Percentile (Q1): The first quartile shows that 25% of flights are delayed by 7 minutes or less. 
                         This reflects a significant portion of flights experiencing minimal delays.
 
-data/flight_delay_distribution.png
-![data/flight_delay_distribution](data/flight_delay_distribution.png)
-
-
 •	Median Delay (Q2): The median delay is 15 minutes, indicating that half of the flights are delayed by
                      15 minutes or less. This aligns with the mean delay.
 •	75th Percentile (Q3): The third quartile indicates that 75% of flights are delayed by 23 minutes or less, 
